@@ -22,15 +22,10 @@ I build real security tools and detection labs — not just theory. My projects 
 **Security Tools**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white)
-
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
 ![Nessus](https://img.shields.io/badge/-Nessus-00B4E0?style=flat-square)
-
 ![Cortex XSOAR](https://img.shields.io/badge/-Cortex%20XSOAR-FF6600?style=flat-square)
-
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square)
-
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-red?style=flat-square)
 
 **Programming & Development**
