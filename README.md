@@ -3,8 +3,9 @@
 ### 🛡️ Cybersecurity Student | Blue Team | SOC Analyst (Aspiring) | BCA @ Lovely Professional University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nadhilan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadhilan/)
-[![ThreatLens](https://img.shields.io/badge/Live%20Tool-ThreatLens-46E3B7?style=flat-square)](https://threatlens-hqht.onrender.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Nadhil--an-black?style=flat-square&logo=github)](https://github.com/Nadhil-an)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadhil-an&color=blue&style=flat-square)
 
 ---
@@ -14,12 +15,6 @@
 I'm a cybersecurity-focused BCA student at **Lovely Professional University**, Punjab, specializing in **blue team operations and SOC analysis**. I hold **CompTIA Security+** and **Network+** certifications and have hands-on internship experience as a SOC Analyst Trainee working with Splunk, Cortex XSOAR, XDR/EDR, and Nessus.
 
 I build real security tools and detection labs — not just theory. My projects cover the full SOC workflow: threat intelligence aggregation, phishing analysis, SIEM detection, and incident investigation across endpoint, Active Directory, and web attack scenarios.
-
-- 🔭 Currently building: **Enterprise SIEM Detection Lab** (13 labs across 3 attack domains)
-- 🌱 Learning: Wireshark PCAP analysis, Threat Hunting, AWS Security
-- 🎯 Target Role: **SOC Analyst Tier 1/2**
-- 📍 Location: Punjab, India
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -27,10 +22,15 @@ I build real security tools and detection labs — not just theory. My projects 
 **Security Tools**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white)
+
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
 ![Nessus](https://img.shields.io/badge/-Nessus-00B4E0?style=flat-square)
+
 ![Cortex XSOAR](https://img.shields.io/badge/-Cortex%20XSOAR-FF6600?style=flat-square)
+
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square)
+
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-red?style=flat-square)
 
 **Programming & Development**
