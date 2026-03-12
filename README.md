@@ -3,18 +3,14 @@
 ### 🛡️ Cybersecurity Student | Blue Team | SOC Analyst (Aspiring) | BCA @ Lovely Professional University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nadhilan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadhilan/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Nadhil--an-black?style=flat-square&logo=github)](https://github.com/Nadhil-an)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Nadhil-an&color=blue&style=flat-square)
 
 ---
 
 ## 🧠 About Me
 
-I'm a cybersecurity-focused BCA student at **Lovely Professional University**, Punjab, specializing in **blue team operations and SOC analysis**. I hold **CompTIA Security+** and **Network+** certifications and have hands-on internship experience as a SOC Analyst Trainee working with Splunk, Cortex XSOAR, XDR/EDR, and Nessus.
-
-I build real security tools and detection labs — not just theory. My projects cover the full SOC workflow: threat intelligence aggregation, phishing analysis, SIEM detection, and incident investigation across endpoint, Active Directory, and web attack scenarios.
+I'm a cybersecurity-focused BCA student at **Lovely Professional University**, Punjab, specializing in **blue team operations and SOC analysis**. I hold **CompTIA Security+** and **Network+** certifications and have hands-on intee rnship experiencas a SOC Analyst Trainee working with Splunk, Cortex XSOAR, XDR/EDR, and Nessus.
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -22,11 +18,13 @@ I build real security tools and detection labs — not just theory. My projects 
 **Security Tools**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/-Nessus-00B4E0?style=flat-square)
 ![Cortex XSOAR](https://img.shields.io/badge/-Cortex%20XSOAR-FF6600?style=flat-square)
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square)
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-red?style=flat-square)
+
 
 **Programming & Development**
 
@@ -48,17 +46,11 @@ I build real security tools and detection labs — not just theory. My projects 
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-red?style=flat-square)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square)
 
+**Certifications**
+
+![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/-CompTIA%20Network%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
 ---
-
-## 🏆 Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| CompTIA Security+ (SY0-701) | CompTIA | ✅ Certified |
-| CompTIA Network+ (N10-009) | CompTIA | ✅ Certified |
-
----
-
 ## 🔥 Featured Projects
 
 ### 🛡️ [Enterprise SIEM Detection Lab](https://github.com/Nadhil-an/Enterprise-SIEM-SOLUTION)
@@ -104,36 +96,6 @@ I build real security tools and detection labs — not just theory. My projects 
 - Worked with **Cortex XSOAR** to build and execute automated response playbooks
 - Used **XDR/EDR** platforms for endpoint threat detection and investigation
 - Conducted **vulnerability assessments** using Nessus and applied OWASP guidelines
-
----
-
-## 📊 SOC Coverage Map
-
-| Domain | Tools | Labs |
-|---|---|---|
-| 🖥️ Endpoint Detection | Splunk, Windows Event Logs | 5 labs |
-| 🏢 Active Directory | Splunk, AD DS, Group Policy | 3 labs |
-| 🌐 Web Application | DVWA, Apache Logs, Splunk | 5 labs |
-| 🔍 Threat Intelligence | VirusTotal, AbuseIPDB, ThreatLens | Live tool |
-| 📧 Phishing Analysis | Python, Email Headers | Automated tool |
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadhil-an&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadhil-an&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🎯 Currently Working On
-
-- 📁 Uploading all 13 SIEM detection labs to GitHub with full documentation
-- 🔬 Wireshark PCAP malware traffic analysis write-ups
-- 📜 Splunk Core Certified User preparation
-- 🌐 Improving ThreatLens with MITRE ATT&CK mapping and bulk IP upload
 
 ---
 
