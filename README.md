@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm a cybersecurity-focused BCA student at **Lovely Professional University**, Punjab, specializing in **blue team operations and SOC analysis**. I hold **CompTIA Security+** and **Network+** certifications and have hands-on intee rnship experiencas a SOC Analyst Trainee working with Splunk, Cortex XSOAR, XDR/EDR, and Nessus.
+I'm a cybersecurity-focused BCA student at **Lovely Professional University**, Punjab, specializing in **blue team operations and SOC analysis**. I hold **CompTIA Security+** and **Network+** certifications.
 ---
 
 ## 🛠️ Tech Stack & Tools
