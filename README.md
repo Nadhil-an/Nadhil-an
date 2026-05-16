@@ -21,7 +21,6 @@ I'm a cybersecurity-focused BCA student at **Lovely Professional University**, P
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/-Nessus-00B4E0?style=flat-square)
-![Cortex XSOAR](https://img.shields.io/badge/-Cortex%20XSOAR-FF6600?style=flat-square)
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square)
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-red?style=flat-square)
 
@@ -30,10 +29,8 @@ I'm a cybersecurity-focused BCA student at **Lovely Professional University**, P
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Cloud & Infrastructure**
 
