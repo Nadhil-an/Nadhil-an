@@ -17,42 +17,69 @@ I enjoy working with AWS, Docker, Jenkins, and CI/CD pipelines, while exploring 
 
 ---
 
+
 ## 🛠️ Tech Stack & Tools
 
-**Security Tools**
+### ☁️ Cloud & Infrastructure
 
-![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-00B4E0?style=flat-square)
-![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square)
-![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-red?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+### ⚙️ DevOps & CI/CD
 
-**Programming & Development**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### 📊 Monitoring & Observability
 
-**Cloud & Infrastructure**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+### 🛡️ Security Tools
 
-**Frameworks**
+![Splunk](https://img.shields.io/badge/Splunk%20SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-red?style=flat-square)
 
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-red?style=flat-square)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square)
+### 💻 Programming & Development
 
-**Certifications**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/-CompTIA%20Network%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
+### 📚 Security Frameworks
+
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+
+### 🏅 Certifications
+
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
 ---
-## 🔥 Featured Projects
+##  Featured Projects
+
+☁️ Sreelakshmi Fins — AWS Cloud Infrastructure
+
+Deployed a secure, containerized three-tier application on AWS with automated CI/CD and monitoring.
+
+- Deployed the application on AWS EC2 using Docker Compose.
+- Implemented a Jenkins CI/CD pipeline with automated testing and deployment.
+- Integrated SonarQube for code quality and security analysis.
+- Configured Prometheus and Grafana for infrastructure monitoring.
+- Used Cloudflare R2 for secure object storage.
+- Applied container security practices and persistent data storage.
+- AWS EC2 Docker Jenkins SonarQube Cloudflare R2 Prometheus Grafana PostgreSQL
 
 ### 🛡️ [Enterprise SIEM Detection Lab](https://github.com/Nadhil-an/Enterprise-SIEM-SOLUTION)
 > 13 hands-on SOC detection labs across Endpoint, Active Directory, and Web attack scenarios
