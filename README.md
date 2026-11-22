@@ -1,6 +1,6 @@
 # Hi, I'm Nadil 👋
 
-### 🛡️ Cybersecurity Student | Blue Team | SOC Analyst (Aspiring) | BCA @ Lovely Professional University
+### 🛡️ Cloud Computing, DevOps & Cybersecurity Enthusiast | Passionate about Building, Automating, and Securing Modern Infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nadhilan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadhilan/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nadhil--an-black?style=flat-square&logo=github)](https://github.com/Nadhil-an)
