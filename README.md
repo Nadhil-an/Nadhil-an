@@ -41,11 +41,11 @@ I enjoy working with AWS, Docker, Jenkins, and CI/CD pipelines, while exploring 
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Splunk SIEM](https://img.shields.io/badge/Splunk%20SIEM-FF6B35?style=flat-square&logo=splunk&logoColor=white)
 
 ### 🛡️ Security Tools
 
-![Splunk](https://img.shields.io/badge/Splunk%20SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![Splunk SIEM](https://img.shields.io/badge/Splunk%20SIEM-FF6B35?style=flat-square&logo=splunk&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=flat-square)
