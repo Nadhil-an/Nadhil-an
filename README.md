@@ -10,7 +10,11 @@
 
 ## 🧠 About Me
 
-I'm a cybersecurity-focused BCA student at **Lovely Professional University**, Punjab, specializing in **blue team operations and SOC analysis**. I hold **CompTIA Security+** and **Network+** certifications.
+I'm a Cloud & DevOps Enthusiast with a strong interest in Cybersecurity and Cloud Infrastructure. Passionate about building, automating, and securing applications using modern cloud technologies and DevOps practices.
+
+I enjoy working with AWS, Docker, Jenkins, and CI/CD pipelines, while exploring infrastructure monitoring, automation, and security practices.
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
